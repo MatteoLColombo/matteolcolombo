@@ -1,1 +1,2 @@
-<span style="font-family: monospace;">currently working on a qmk kb dedicated firmware</span>
+$ currently working on a qmk kb dedicated firmware  
+$ expert in 3D printing & modeling — 6k+ downloads on Printables  
